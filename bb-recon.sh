@@ -15,3 +15,4 @@ mkdir aquatone_$1
 mv aquatone_report.html aquatone_session.json aquatone_urls.txt headers html screenshots aquatone_$1
 mv aquatone_$1 $1/
 
+
